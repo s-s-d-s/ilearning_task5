@@ -1,0 +1,5 @@
+{
+  "port": 8080,
+  "jwtSecret": "ilearning",
+  "dbUri": "mongodb+srv://ssds:123@cluster0.sm2ty.mongodb.net/app?retryWrites=true&w=majority"
+}
