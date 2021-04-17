@@ -24,13 +24,8 @@
     "express-validator": "^6.10.0",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.1",
-<<<<<<< HEAD
     "mongoose": "^5.12.3",
     "cross-env": "^7.0.3"
-=======
-    "cross-env": "^7.0.3",
-    "mongoose": "^5.12.3"
->>>>>>> 769184ad4d6412708db20e6fa61ffb539c0479f4
   },
   "devDependencies": {
     "concurrently": "^6.0.2",
